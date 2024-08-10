@@ -31,7 +31,7 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.width', 1000)
 
 # Replace with data path
-data_path = "C:/Users/IoT Lab/OneDrive - University of the West of Scotland/desktop/Health-spa Dataset/"
+data_path = "add_data_path"
 
 # Read data files
 f1 = pd.read_csv(data_path + "Final_Dataframe_P1.csv")
